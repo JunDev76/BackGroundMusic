@@ -2,7 +2,8 @@
 
 /*
 Copyright 2021. 동동 all rights reserved.
-문의: admin@kinggod.net
+
+문의: kakao.dongdong1234451.kro.kr 또는 dongdong1234451@gmail.com
 
 본 플러그인은 "GNU General Public License v3.0"에 의해 보호받습니다.
  */
